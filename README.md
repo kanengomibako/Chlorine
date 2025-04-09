@@ -42,8 +42,8 @@ STM32マイコンを搭載した、プログラミング可能なデジタルエ
 - [プログラム書き込み・デバッグ](Docs/001_プログラム書き込み・デバッグ.md)
 - [マイコンの機能設定](Docs/003_マイコンの機能設定.md)
 - [プログラミング概要]()（公開準備中）
-- [エフェクト種類管理（fx.cpp）について](Docs/100_エフェクト種類管理（fx.cpp）について.md)
-- [エフェクトファイル（fx_○○.hpp）について](Docs/110_エフェクトファイル（fx_○○.hpp）について.md)
+- [エフェクト種類管理（fx.cpp）について](https://github.com/kanengomibako/Sodium/blob/main/Docs/100_%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E7%A8%AE%E9%A1%9E%E7%AE%A1%E7%90%86%EF%BC%88fx.cpp%EF%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)（旧機種Sodiumと共用ページ）
+- [エフェクトファイル（fx_○○.hpp）について](https://github.com/kanengomibako/Sodium/blob/main/Docs/110_%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BC%88fx_%E2%97%8B%E2%97%8B.hpp%EF%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)（旧機種Sodiumと共用ページ）
 - [各エフェクト説明目次](https://github.com/kanengomibako/Sodium/blob/main/Docs/200_%E5%90%84%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E8%AA%AC%E6%98%8E%E7%9B%AE%E6%AC%A1.md)（旧機種Sodium用ですが、基本的なプログラム内容はChlorineと同じです。）
 - [USBアップデート機能について]()（公開準備中）
 - [開発記録]()（公開準備中）
