@@ -47,7 +47,7 @@ STM32マイコンを搭載した、プログラミング可能なデジタルエ
 
 - [プログラミング概要](Docs/004_プログラミング概要.md)
 
-- [USBアップデート機能について]()（公開準備中）
+- [Chlorine プログラム書込ツール](https://kanengomibako.github.io/Chlorine_WebUSBDFU.html)
 
 - [開発記録]()（公開準備中）
 
