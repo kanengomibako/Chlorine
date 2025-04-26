@@ -38,18 +38,12 @@ STM32マイコンを搭載した、プログラミング可能なデジタルエ
 
 ### 資料
 - [初期プログラムについて](Docs/000_初期プログラムについて.md)
-
 - [デバッガ購入について](https://github.com/kanengomibako/Sodium/blob/main/Docs/005_%E3%83%87%E3%83%90%E3%83%83%E3%82%AC%E8%B3%BC%E5%85%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)
-
 - [プログラム書き込み・デバッグ](Docs/001_プログラム書き込み・デバッグ.md)
-
 - [マイコンの機能設定](Docs/003_マイコンの機能設定.md)
-
 - [プログラミング概要](Docs/004_プログラミング概要.md)
-
 - [Chlorine プログラム書込ツール](https://kanengomibako.github.io/Chlorine_WebUSBDFU.html)
-
-- [開発記録]()（公開準備中）
+- [開発記録](Docs/900_開発記録.md)
 
 
 エフェクトについては、旧機種Sodium用のページをご参照ください。基本的にはChlorineも同じプログラム内容です。
