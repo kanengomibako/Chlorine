@@ -5,9 +5,16 @@
 #include <string>
 using std::string;
 
+/*
+Chlorine v0.2 2026.04.08
+STM32CubeIDE 2.1.1
+STM32CubeMX 6.17.0
+STM32Cube FW_H7 V1.13.0
+*/
+
 /* 各定数設定 --------------------------*/
 
-// ペダル名称表示          v0.1 2025.04.09
+// ペダル名称表示
 #define PEDAL_NAME "Chlorine"
 
 // ブロックサイズ まとめて処理を行う数
